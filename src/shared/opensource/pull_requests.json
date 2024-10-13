@@ -1,0 +1,54 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOMFD8hc52gUbV",
+      "title": "Automated test case generation using Radamsa Fuzzer",
+      "url": "https://github.com/summer-research-program/ReproducingC2RustBenchmark/pull/28",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-07-25T19:00:25Z",
+      "number": 28,
+      "changedFiles": 1,
+      "additions": 195,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ReproducingC2RustBenchmark",
+        "url": "https://github.com/summer-research-program/ReproducingC2RustBenchmark",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/170876033?v=4",
+          "login": "summer-research-program",
+          "url": "https://github.com/summer-research-program"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2NDkwMzcx",
+      "title": "Added files",
+      "url": "https://github.com/swapped004/chat_app/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60988345?u=23c80fcd37a7a16527cea11acc20310cd25e5152&v=4",
+        "url": "https://github.com/swapped004",
+        "login": "swapped004"
+      },
+      "createdAt": "2021-03-08T06:28:37Z",
+      "number": 1,
+      "changedFiles": 50,
+      "additions": 2168,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "chat_app",
+        "url": "https://github.com/swapped004/chat_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60988345?u=23c80fcd37a7a16527cea11acc20310cd25e5152&v=4",
+          "login": "swapped004",
+          "url": "https://github.com/swapped004"
+        }
+      }
+    }
+  ],
+  "merged": 1,
+  "open": 1,
+  "totalCount": 2
+}
