@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://swapped004.github.io/static/css/main.124ee717.chunk.css",
-    "main.js": "https://swapped004.github.io/static/js/main.4a4660ab.chunk.js",
-    "main.js.map": "https://swapped004.github.io/static/js/main.4a4660ab.chunk.js.map",
+    "main.css": "https://swapped004.github.io/static/css/main.681e8d33.chunk.css",
+    "main.js": "https://swapped004.github.io/static/js/main.eda86241.chunk.js",
+    "main.js.map": "https://swapped004.github.io/static/js/main.eda86241.chunk.js.map",
     "runtime-main.js": "https://swapped004.github.io/static/js/runtime-main.21ee3940.js",
     "runtime-main.js.map": "https://swapped004.github.io/static/js/runtime-main.21ee3940.js.map",
-    "static/js/2.28f38122.chunk.js": "https://swapped004.github.io/static/js/2.28f38122.chunk.js",
-    "static/js/2.28f38122.chunk.js.map": "https://swapped004.github.io/static/js/2.28f38122.chunk.js.map",
+    "static/js/2.3a0f4ec4.chunk.js": "https://swapped004.github.io/static/js/2.3a0f4ec4.chunk.js",
+    "static/js/2.3a0f4ec4.chunk.js.map": "https://swapped004.github.io/static/js/2.3a0f4ec4.chunk.js.map",
     "index.html": "https://swapped004.github.io/index.html",
-    "precache-manifest.76c2e00c9577d18ea1b3e68ceb06ce91.js": "https://swapped004.github.io/precache-manifest.76c2e00c9577d18ea1b3e68ceb06ce91.js",
+    "precache-manifest.2183d9a6ae90910f7175e883c712aef4.js": "https://swapped004.github.io/precache-manifest.2183d9a6ae90910f7175e883c712aef4.js",
     "service-worker.js": "https://swapped004.github.io/service-worker.js",
-    "static/css/main.124ee717.chunk.css.map": "https://swapped004.github.io/static/css/main.124ee717.chunk.css.map",
+    "static/css/main.681e8d33.chunk.css.map": "https://swapped004.github.io/static/css/main.681e8d33.chunk.css.map",
     "static/media/index.css": "https://swapped004.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CodeCrafters_logo.png": "https://swapped004.github.io/static/media/CodeCrafters_logo.8cf7a26d.png",
     "static/media/address_image.svg": "https://swapped004.github.io/static/media/address_image.16559172.svg",
@@ -67,6 +67,7 @@
     "static/media/projects_image.svg": "https://swapped004.github.io/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "https://swapped004.github.io/static/media/pwa.71408db7.png",
     "static/media/reactjs_logo.png": "https://swapped004.github.io/static/media/reactjs_logo.6e55fb66.png",
+    "static/media/research.svg": "https://swapped004.github.io/static/media/research.a059f869.svg",
     "static/media/stanford_logo.png": "https://swapped004.github.io/static/media/stanford_logo.2c497738.png",
     "static/media/svn_logo.jpg": "https://swapped004.github.io/static/media/svn_logo.7d1207a5.jpg",
     "static/media/swapnil_dey_pfp.jpg": "https://swapped004.github.io/static/media/swapnil_dey_pfp.d10cfc1c.jpg",
@@ -74,13 +75,14 @@
     "static/media/talksCardBackAlt.svg": "https://swapped004.github.io/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "https://swapped004.github.io/static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "https://swapped004.github.io/static/media/ui_ux_design.d6363089.svg",
+    "static/media/uiuc_logo.png": "https://swapped004.github.io/static/media/uiuc_logo.3e16e15c.png",
     "static/media/version_control.svg": "https://swapped004.github.io/static/media/version_control.afb6c033.svg",
     "static/media/web_dev.png": "https://swapped004.github.io/static/media/web_dev.153eba11.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21ee3940.js",
-    "static/js/2.28f38122.chunk.js",
-    "static/css/main.124ee717.chunk.css",
-    "static/js/main.4a4660ab.chunk.js"
+    "static/js/2.3a0f4ec4.chunk.js",
+    "static/css/main.681e8d33.chunk.css",
+    "static/js/main.eda86241.chunk.js"
   ]
 }

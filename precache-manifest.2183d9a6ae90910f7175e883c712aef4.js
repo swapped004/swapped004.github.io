@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c75a09e0492b4dac8d62c3f02f4d967",
+    "revision": "c9aee8a417cd4979abdfa14e65caa5e0",
     "url": "https://swapped004.github.io/index.html"
   },
   {
-    "revision": "e29d80310055fc83c5f7",
-    "url": "https://swapped004.github.io/static/css/main.124ee717.chunk.css"
+    "revision": "9abf4acdd466a4d4dd47",
+    "url": "https://swapped004.github.io/static/css/main.681e8d33.chunk.css"
   },
   {
-    "revision": "aae4b6bb83c1205c710e",
-    "url": "https://swapped004.github.io/static/js/2.28f38122.chunk.js"
+    "revision": "8bda78c20e2fb3d0e9bb",
+    "url": "https://swapped004.github.io/static/js/2.3a0f4ec4.chunk.js"
   },
   {
-    "revision": "e29d80310055fc83c5f7",
-    "url": "https://swapped004.github.io/static/js/main.4a4660ab.chunk.js"
+    "revision": "9abf4acdd466a4d4dd47",
+    "url": "https://swapped004.github.io/static/js/main.eda86241.chunk.js"
   },
   {
     "revision": "e22915603566344a91d7",
@@ -328,6 +328,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://swapped004.github.io/static/media/reactjs_logo.6e55fb66.png"
   },
   {
+    "revision": "a059f8691873077825359e3e24ba76d5",
+    "url": "https://swapped004.github.io/static/media/research.a059f869.svg"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "https://swapped004.github.io/static/media/stanford_logo.2c497738.png"
   },
@@ -354,6 +358,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "https://swapped004.github.io/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "3e16e15c275519f71610ff962a990b33",
+    "url": "https://swapped004.github.io/static/media/uiuc_logo.3e16e15c.png"
   },
   {
     "revision": "afb6c033a97698a6f8888baeb064da81",
