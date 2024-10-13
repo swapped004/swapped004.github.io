@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "632085cf968d8d44baa2a5abfbe5adb7",
+    "revision": "676dccffb15de0746c2488afa2065fb5",
     "url": "https://swapped004.github.io/index.html"
   },
   {
-    "revision": "7daf454189bff5bce41a",
+    "revision": "8a872e650ab80f98ecd8",
     "url": "https://swapped004.github.io/static/css/main.19ee0dce.chunk.css"
   },
   {
-    "revision": "5256a685c2e96ec8fd8f",
-    "url": "https://swapped004.github.io/static/js/2.20bd9eb7.chunk.js"
+    "revision": "9b4afc19039be57e6cb9",
+    "url": "https://swapped004.github.io/static/js/2.2f7a325c.chunk.js"
   },
   {
-    "revision": "7daf454189bff5bce41a",
-    "url": "https://swapped004.github.io/static/js/main.3ba952b8.chunk.js"
+    "revision": "8a872e650ab80f98ecd8",
+    "url": "https://swapped004.github.io/static/js/main.be4f67d5.chunk.js"
   },
   {
     "revision": "e22915603566344a91d7",
@@ -318,6 +318,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
     "url": "https://swapped004.github.io/static/media/projects_image.b8ba9487.svg"
+  },
+  {
+    "revision": "b041aed45d225e06725a0b03d8d9f6f7",
+    "url": "https://swapped004.github.io/static/media/publications.b041aed4.svg"
   },
   {
     "revision": "71408db71465afd742233e4a96f06526",
