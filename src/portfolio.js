@@ -391,10 +391,10 @@ const degrees = {
       duration: "March, 2018 - May, 2023",
       grade: "3.81/4.00",
       descriptions: [
-        "⚡ I have taken basic computer science courses like DSA, DBMS, OS, Compilers, Network, Security, ML, AI etc.",
-        "⚡ My favorite courses include Machine Learning, Computer Security and Data Structures and Algorithms.",
+        "⚡ I have taken basic computer science courses like DSA, DBMS, OS, Compilers, Network, Security, ML, AI etc. I also took courses like Graph Theory, Bioinformatics and Simulation & Modeling.",
+        "⚡ My favorite courses include Machine Learning, Computer Security, Graph Theory and DSA.",
         "⚡ My undergraduate thesis was on 'Effect of Smile on Facial Landmark based Face Recognition' which was published in IEEE SMC 2023.",
-        "⚡ I earned my position in the University Dean's List for 3 consecutive years.",
+        "⚡ I earned my position in the University Dean's List for 3 consecutive academic years.",
         "⚡ Apart from my academics, I also participated in various Capture The Flag contests and GameJams.",
       ],
       website_link: "http://buet.ac.bd",
@@ -409,7 +409,7 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
+  title: "Work Experience",
   subtitle: "",
   description: "",
   header_image_path: "experience.svg",
@@ -434,6 +434,46 @@ const experience = {
           color: "#000000",
         },
       ],
+    },
+  ],
+};
+
+//research experience page
+const research_exps = {
+  research_exps: [
+    {
+      subtitle: "University of Illinois at Urbana-Champaign",
+      title:
+        "Research Intern in Software Engineering at UIUC+ summer reseach program",
+      logo_path: "uiuc_logo.png",
+      alt_name: "UIUC",
+      duration: "May, 2024 - August, 2024",
+      descriptions: [
+        "⚡ Under the supervison of Prof. Darko Marinov and Asst. Prof. Reyhaneh Jabbarvand, my research task focused on the translation of C code to Rust code and automated test case generation to smooth out benchmarking process.",
+        "⚡ Explored existing research on C to Rust code translation methods and contributed in writing scrips to benchmark the performance of the translated code.",
+        "⚡ Contributed to generate automated test cases using KLEE.",
+        "⚡ Added scripts to automate test case generation using Radamsa Fuzzer.",
+        "⚡ Wrote manual testcases to increase the code coverage of CodeNET dataset.",
+      ],
+      website_link: "https://illinois.edu/",
+      location: "",
+    },
+    {
+      subtitle: "Bangladesh University of Engineering and Technology",
+      title:
+        "Final year thesis work: Effect of Smile on Landmark based Face Recognition",
+      logo_path: "buet_logo.png",
+      alt_name: "BUET",
+      duration: "June, 2022 - May, 2023",
+      descriptions: [
+        "⚡ Under the supervision of Dr. A.K.M. Ashikur Rahman, we investigated the effect of smile on face recognition accuracy during my undergraduate thesis.",
+        "⚡ We proposed a handful of novel features to capture the effect of smile on faces.",
+        "⚡ With the new feature set, we applied several machine learning algorithms on the data set that includes a comprehensive set of both smiling and neutral facial images of people with different gender, ethnicity and age groups.",
+        "⚡ Our experimental result suggests that smiling faces produce high discriminating power that can be used effectively by the machine-learning algorithms to improve their accuracy and fairness.",
+        '⚡ This was published in IEEE SMC 2023 titled "Effect of Smile on Facial Landmark based Face Recognition".',
+      ],
+      website_link: "http://buet.ac.bd",
+      location: "",
     },
   ],
 };
@@ -508,4 +548,5 @@ export {
   publicationsHeader,
   publications,
   contactPageData,
+  research_exps,
 };
