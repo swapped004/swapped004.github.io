@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://swapped004.github.io/static/css/main.681e8d33.chunk.css",
-    "main.js": "https://swapped004.github.io/static/js/main.68889495.chunk.js",
-    "main.js.map": "https://swapped004.github.io/static/js/main.68889495.chunk.js.map",
+    "main.css": "https://swapped004.github.io/static/css/main.19ee0dce.chunk.css",
+    "main.js": "https://swapped004.github.io/static/js/main.3ba952b8.chunk.js",
+    "main.js.map": "https://swapped004.github.io/static/js/main.3ba952b8.chunk.js.map",
     "runtime-main.js": "https://swapped004.github.io/static/js/runtime-main.21ee3940.js",
     "runtime-main.js.map": "https://swapped004.github.io/static/js/runtime-main.21ee3940.js.map",
-    "static/js/2.3a0f4ec4.chunk.js": "https://swapped004.github.io/static/js/2.3a0f4ec4.chunk.js",
-    "static/js/2.3a0f4ec4.chunk.js.map": "https://swapped004.github.io/static/js/2.3a0f4ec4.chunk.js.map",
+    "static/js/2.20bd9eb7.chunk.js": "https://swapped004.github.io/static/js/2.20bd9eb7.chunk.js",
+    "static/js/2.20bd9eb7.chunk.js.map": "https://swapped004.github.io/static/js/2.20bd9eb7.chunk.js.map",
     "index.html": "https://swapped004.github.io/index.html",
-    "precache-manifest.8ed7a7a6fe1fadb78cabb05d62a112d6.js": "https://swapped004.github.io/precache-manifest.8ed7a7a6fe1fadb78cabb05d62a112d6.js",
+    "precache-manifest.c04cc88e3589d1d26964aaf86d3b1224.js": "https://swapped004.github.io/precache-manifest.c04cc88e3589d1d26964aaf86d3b1224.js",
     "service-worker.js": "https://swapped004.github.io/service-worker.js",
-    "static/css/main.681e8d33.chunk.css.map": "https://swapped004.github.io/static/css/main.681e8d33.chunk.css.map",
+    "static/css/main.19ee0dce.chunk.css.map": "https://swapped004.github.io/static/css/main.19ee0dce.chunk.css.map",
     "static/media/index.css": "https://swapped004.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CodeCrafters_logo.png": "https://swapped004.github.io/static/media/CodeCrafters_logo.8cf7a26d.png",
     "static/media/address_image.svg": "https://swapped004.github.io/static/media/address_image.16559172.svg",
@@ -81,8 +81,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.21ee3940.js",
-    "static/js/2.3a0f4ec4.chunk.js",
-    "static/css/main.681e8d33.chunk.css",
-    "static/js/main.68889495.chunk.js"
+    "static/js/2.20bd9eb7.chunk.js",
+    "static/css/main.19ee0dce.chunk.css",
+    "static/js/main.3ba952b8.chunk.js"
   ]
 }

@@ -509,16 +509,8 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
     description:
       "Reach out to me on LinkedIn, discord or facebook or send me an email. I will try to get back to you as soon as possible.",
-  },
-  blogSection: {
-    // title: "Blogs",
-    // subtitle:
-    //   "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    // link: "https://blogs.ashutoshhathidara.com/",
-    // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
