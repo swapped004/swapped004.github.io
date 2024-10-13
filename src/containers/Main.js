@@ -8,6 +8,7 @@ import Opensource from "../pages/opensource/Opensource";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
 import ResearchExperience from "../pages/research/ResearchExpComponent";
+import Publications from "../pages/publications/Publications";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
 
@@ -70,6 +71,12 @@ export default class Main extends Component {
             path="/research_experience"
             render={(props) => (
               <ResearchExperience {...props} theme={this.props.theme} />
+            )}
+          />
+          <Route
+            path="/publications"
+            render={(props) => (
+              <Publications {...props} theme={this.props.theme} />
             )}
           />
           <Route

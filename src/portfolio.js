@@ -486,7 +486,8 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  header_title: "Publications",
+  title: "Conference Papers",
   description: "",
   avatar_image_path: "projects_image.svg",
 };
@@ -496,8 +497,9 @@ const publications = {
     {
       id: "Effect of Smile on Landmark based Face Recognition",
       name: "Effect of Smile on Landmark based Face Recognition",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in IEEE SMC 2023.",
+      createdAt: "October 1-4, 2023",
+      description:
+        "Paper published in IEEE SMC 2023. First author of the paper, contributing significantly to research and writing. Delivered the conference presentation, discussing key findings and engaging with the academic community.",
       url: "https://ieeexplore.ieee.org/document/10394510",
     },
   ],
