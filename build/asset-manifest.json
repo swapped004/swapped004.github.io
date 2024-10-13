@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://swapped004.github.io/static/css/main.19ee0dce.chunk.css",
-    "main.js": "https://swapped004.github.io/static/js/main.3ba952b8.chunk.js",
-    "main.js.map": "https://swapped004.github.io/static/js/main.3ba952b8.chunk.js.map",
+    "main.js": "https://swapped004.github.io/static/js/main.be4f67d5.chunk.js",
+    "main.js.map": "https://swapped004.github.io/static/js/main.be4f67d5.chunk.js.map",
     "runtime-main.js": "https://swapped004.github.io/static/js/runtime-main.21ee3940.js",
     "runtime-main.js.map": "https://swapped004.github.io/static/js/runtime-main.21ee3940.js.map",
-    "static/js/2.20bd9eb7.chunk.js": "https://swapped004.github.io/static/js/2.20bd9eb7.chunk.js",
-    "static/js/2.20bd9eb7.chunk.js.map": "https://swapped004.github.io/static/js/2.20bd9eb7.chunk.js.map",
+    "static/js/2.2f7a325c.chunk.js": "https://swapped004.github.io/static/js/2.2f7a325c.chunk.js",
+    "static/js/2.2f7a325c.chunk.js.map": "https://swapped004.github.io/static/js/2.2f7a325c.chunk.js.map",
     "index.html": "https://swapped004.github.io/index.html",
-    "precache-manifest.c04cc88e3589d1d26964aaf86d3b1224.js": "https://swapped004.github.io/precache-manifest.c04cc88e3589d1d26964aaf86d3b1224.js",
+    "precache-manifest.2998138c0a9c9fe478d11ed53872acfe.js": "https://swapped004.github.io/precache-manifest.2998138c0a9c9fe478d11ed53872acfe.js",
     "service-worker.js": "https://swapped004.github.io/service-worker.js",
     "static/css/main.19ee0dce.chunk.css.map": "https://swapped004.github.io/static/css/main.19ee0dce.chunk.css.map",
     "static/media/index.css": "https://swapped004.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -65,6 +65,7 @@
     "static/media/programmer.svg": "https://swapped004.github.io/static/media/programmer.5faf790b.svg",
     "static/media/programming_languages.svg": "https://swapped004.github.io/static/media/programming_languages.50b6e6ed.svg",
     "static/media/projects_image.svg": "https://swapped004.github.io/static/media/projects_image.b8ba9487.svg",
+    "static/media/publications.svg": "https://swapped004.github.io/static/media/publications.b041aed4.svg",
     "static/media/pwa.png": "https://swapped004.github.io/static/media/pwa.71408db7.png",
     "static/media/reactjs_logo.png": "https://swapped004.github.io/static/media/reactjs_logo.6e55fb66.png",
     "static/media/research.svg": "https://swapped004.github.io/static/media/research.a059f869.svg",
@@ -81,8 +82,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.21ee3940.js",
-    "static/js/2.20bd9eb7.chunk.js",
+    "static/js/2.2f7a325c.chunk.js",
     "static/css/main.19ee0dce.chunk.css",
-    "static/js/main.3ba952b8.chunk.js"
+    "static/js/main.be4f67d5.chunk.js"
   ]
 }

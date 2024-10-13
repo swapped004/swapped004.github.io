@@ -11,7 +11,7 @@ import DatabaseImg from "./DatabaseImg";
 import LanguagesImg from "./LanguagesImg";
 import BackendImg from "./BackendImg";
 import DevelopmentImg from "./DevelopmentImg";
-import FrontendImg from "./FrontendImg";
+import FrontendImg from "./FrontEndImg";
 import ForensicsImg from "./ForensicsImg";
 import VersionControlImg from "./VersionControlImg";
 import MiscImg from "./MiscImg";
