@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a2135be85b149c0683d790e74963588",
+    "revision": "632085cf968d8d44baa2a5abfbe5adb7",
     "url": "https://swapped004.github.io/index.html"
   },
   {
-    "revision": "df734664bef03d4abe2e",
+    "revision": "7daf454189bff5bce41a",
     "url": "https://swapped004.github.io/static/css/main.19ee0dce.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://swapped004.github.io/static/js/2.20bd9eb7.chunk.js"
   },
   {
-    "revision": "df734664bef03d4abe2e",
-    "url": "https://swapped004.github.io/static/js/main.1e6fdcf8.chunk.js"
+    "revision": "7daf454189bff5bce41a",
+    "url": "https://swapped004.github.io/static/js/main.3ba952b8.chunk.js"
   },
   {
     "revision": "e22915603566344a91d7",
