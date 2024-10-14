@@ -450,7 +450,7 @@ const research_exps = {
       duration: "May, 2024 - August, 2024",
       descriptions: [
         "⚡ Under the supervison of Prof. Darko Marinov and Asst. Prof. Reyhaneh Jabbarvand, my research task focused on the translation of C code to Rust code and automated test case generation to smooth out benchmarking process.",
-        "⚡ Explored existing research on C to Rust code translation methods and contributed in writing scrips to benchmark the performance of the translated code.",
+        "⚡ Explored existing research on C to Rust code translation methods and contributed in writing scripts to benchmark the performance of the translated code.",
         "⚡ Contributed to generate automated test cases using KLEE.",
         "⚡ Added scripts to automate test case generation using Radamsa Fuzzer.",
         "⚡ Wrote manual testcases to increase the code coverage of CodeNET dataset.",
