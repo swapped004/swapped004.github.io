@@ -42,6 +42,18 @@
   display: flex;
   flex-direction: row;
 }
+.publication-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: left;
+  font-family: "Google Sans Regular";
+  margin-bottom: 0.8rem;
+}
+
+.publication-abstract {
+  margin-top: 0.5rem;
+}
 
 .publication-creation-date {
   margin: 0;
@@ -67,6 +79,10 @@
   }
 
   .publication-description {
+    font-size: 14px;
+  }
+
+  .publication-info {
     font-size: 14px;
   }
 

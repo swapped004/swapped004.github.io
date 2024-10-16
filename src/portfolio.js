@@ -57,7 +57,7 @@ const socialMediaLinks = [
   },
   {
     name: "Discord",
-    link: "https://www.facebook.com/swapnil.dey.52/",
+    link: "https://discord.com/users/690206211521773715/",
     fontAwesomeIcon: "fa-discord", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#7289da", // Reference https://simpleicons.org/?q=facebook
   },
@@ -496,10 +496,20 @@ const publications = {
   data: [
     {
       id: "Effect of Smile on Landmark based Face Recognition",
+      abstract:
+        "Smile reveals distinctive facial features that makes a face more recognizable. However, little is known about the impact of smile on face recognition accuracy, especially in the context of automated face recognition systems using traditional machine learning algorithms. This is an important topic to study because understanding the influence of smile on face recognition could contribute to improve the performance of various applications that use face recognition underneath. In this paper, we propose a handful of novel features to capture the effect of smile on faces. With the new feature set, we then apply several machine learning algorithms on the data set that includes a comprehensive set of both smiling and neutral facial images of people with different gender, ethnicity and age groups. Our experimental result suggests that smiling faces produce high discriminating power that can be used effectively by the machine-learning algorithms to improve their accuracy and fairness.",
       name: "Effect of Smile on Landmark based Face Recognition",
-      createdAt: "October 1-4, 2023",
+      publishedDate: "29 January, 2024",
+      conferenceDate: "01-04 October, 2023",
+      location: "Honolulu, Oahu, HI, USA",
       description:
-        "Paper published in IEEE SMC 2023. First author of the paper, contributing significantly to research and writing. Delivered the conference presentation, discussing key findings and engaging with the academic community.",
+        "Published in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). I was the first author of the paper. I also had the opportunity to present the paper in the conference.",
+      coAuthors: [
+        "Md. Musharaf Hossain",
+        "Asif Mustafa Hassan",
+        "Ashikur Rahman",
+        "Tamima Tarin",
+      ],
       url: "https://ieeexplore.ieee.org/document/10394510",
     },
   ],

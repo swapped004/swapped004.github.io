@@ -23,15 +23,48 @@ export default function PublicationCard({ pub, theme }) {
           <p className="publication-description" style={{ color: theme.text }}>
             {pub.description}
           </p>
+          <div className="publication-info">
+            <div
+              className="publication-coAuthors"
+              style={{ color: theme.text }}
+            >
+              Co-authors:{" "}
+              {pub.coAuthors.map((author, index) => {
+                return (
+                  <span key={index} style={{ color: theme.dark }}>
+                    {author}
+                    {index !== pub.coAuthors.length - 1 ? ", " : ""}
+                  </span>
+                );
+              })}
+            </div>
+            <div
+              className="publication-conferenceDate"
+              style={{ color: theme.text }}
+            >
+              Date of Conference:{" "}
+              <span style={{ color: theme.dark }}>{pub.conferenceDate}</span>
+            </div>
+            <div className="publication-location" style={{ color: theme.text }}>
+              Conference Location:{" "}
+              <span style={{ color: theme.dark }}>{pub.location}</span>
+            </div>
+            <p className="publication-abstract" style={{ color: theme.text }}>
+              Abstract:{" "}
+              <span style={{ color: theme.dark }}>{pub.abstract}</span>
+            </p>
+          </div>
+
           <div className="publication-details">
             <p
               className="publication-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
-              Published on {pub.createdAt.split("T")[0]}
+              Published on {pub.publishedDate}
             </p>
           </div>
-          {/* <div className="repo-stats">
+        </div>
+        {/* <div className="repo-stats">
           <div className="repo-left-stat">
             <span>
               <div className="language-color" style={{ backgroundColor: repo.node.primaryLanguage.color }}></div>
@@ -57,7 +90,6 @@ export default function PublicationCard({ pub, theme }) {
             <p>{repo.node.diskUsage} KB</p>
           </div>
         </div> */}
-        </div>
       </Fade>
     </div>
   );
