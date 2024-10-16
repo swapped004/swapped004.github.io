@@ -1,50 +1,26 @@
 import React, { Component } from "react";
-import DegreeCard from "../../components/degreeCard/DegreeCard.js";
 import "./ExperienceAccordion.css";
-import { Accordion, Panel } from "baseui/accordion";
+import DegreeCard from "../../components/degreeCard/DegreeCard.js";
+import { experience } from "../../portfolio.js";
+// import { Fade } from "react-reveal";
 
 class ExperienceAccordion extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <div className="experience-accord">
-        {/* expand accordion by default */}
-        <Accordion>
-          {this.props.sections.map((section) => {
-            return (
-              <Panel
-                className="accord-panel"
-                title={section["title"]}
-                key="P1"
-                overrides={{
-                  Header: {
-                    style: () => ({
-                      backgroundColor: `${theme.body}`,
-                      border: `1px solid`,
-                      borderRadius: `5px`,
-                      borderColor: `${theme.headerColor}`,
-                      marginBottom: `3px`,
-                      fontFamily: "Google Sans Regular",
-                      color: `${theme.text}`,
-                      ":hover": {
-                        color: `${theme.secondaryText}`,
-                      },
-                    }),
-                  },
-                  Content: {
-                    style: () => ({
-                      backgroundColor: `${theme.body}`,
-                    }),
-                  },
-                }}
-              >
-                {section["experiences"].map((experience, index) => {
-                  return <DegreeCard degree={experience} theme={theme} />;
-                })}
-              </Panel>
-            );
+      <div className="main" id="educations">
+        {/* <div className="educations-header-div">
+          <Fade bottom duration={2000} distance="20px">
+            <h1 className="educations-header" style={{ color: theme.text }}>
+              Degrees Received
+            </h1>
+          </Fade>
+        </div> */}
+        <div className="educations-body-div">
+          {experience.sections[0].experiences.map((exp) => {
+            return <DegreeCard degree={exp} theme={theme} />;
           })}
-        </Accordion>
+        </div>
       </div>
     );
   }

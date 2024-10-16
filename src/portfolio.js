@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Swapnil Dey",
   logo_name: "Swapnil",
-  nickname: "swapped004",
+  nickname: "",
   subTitle:
     "I am a CS graduate from BUET and currently working as a software developer in CodeCrafters International Ltd. I love to code and try to automate things whenever I can. My research interests include Computer Vision, Software Engineering and Computer Security.",
   resumeLink:
@@ -423,12 +423,13 @@ const experience = {
           subtitle: "CodeCrafters International Ltd.",
           website_link: "https://codecraftersintl.com/",
           logo_path: "CodeCrafters_logo.png",
+          alt_name: "CCI",
           duration: "July 2023 - Present",
           location: "Dhaka, Bangladesh",
           descriptions: [
-            "⚡ Contributing in the pure C++ codebase made of 2 million LOC",
-            "⚡ Code maintenance and bug fixes",
+            "⚡ Code Maintenance: Added new features and debugged errors on more than 2 million lines of pure C++ based codebase.",
             "⚡ Significant contributions in making data imports interruptable that are used to import large data in bulk from clients",
+            "⚡ Fixed critical bugs in reports with runtime configuration, bundled and uploaded user data import definition files as a part of diagnostic upload.",
             "⚡ Created a policy management system that is being used internally to manage policies.",
           ],
           color: "#000000",

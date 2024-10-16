@@ -1,13 +1,18 @@
-.experience-accord {
-  margin: 10px;
+.educations-header {
+  font-size: 40px;
+  line-height: 1.1;
+  font-family: "Google Sans Regular";
+  text-align: center;
 }
 
-.accord-panel {
-  font-family: "Google Sans Regular";
+@media (max-width: 1380px) {
+  .educations-header {
+    font-size: 35px;
+  }
 }
 
 @media (max-width: 768px) {
-  .experience-accord {
-    margin: 20px;
+  .educations-header {
+    font-size: 30px;
   }
 }
