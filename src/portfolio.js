@@ -394,7 +394,7 @@ const degrees = {
         "⚡ I have taken basic computer science courses like DSA, DBMS, OS, Compilers, Network, Security, ML, AI etc. I also took courses like Graph Theory, Bioinformatics and Simulation & Modeling.",
         "⚡ My favorite courses include Machine Learning, Computer Security, Graph Theory and DSA.",
         "⚡ My undergraduate thesis was on 'Effect of Smile on Facial Landmark based Face Recognition' which was published in IEEE SMC 2023.",
-        "⚡ I earned my position in the University Dean's List for 3 consecutive academic years.",
+        "⚡ I was awarded with University Merit scholarship twice which is given to the top 40 students in Engineering faculty among 1100+ students. I also earned my position in the University Dean's List for 3 consecutive academic years.",
         "⚡ Apart from my academics, I also participated in various Capture The Flag contests and GameJams.",
       ],
       website_link: "http://buet.ac.bd",
@@ -470,7 +470,7 @@ const research_exps = {
         "⚡ Under the supervision of Dr. A.K.M. Ashikur Rahman, we investigated the effect of smile on face recognition accuracy during my undergraduate thesis.",
         "⚡ We proposed a handful of novel features to capture the effect of smile on faces.",
         "⚡ With the new feature set, we applied several machine learning algorithms on the data set that includes a comprehensive set of both smiling and neutral facial images of people with different gender, ethnicity and age groups.",
-        "⚡ Our experimental result suggests that smiling faces produce high discriminating power that can be used effectively by the machine-learning algorithms to improve their accuracy and fairness.",
+        "⚡ Our experimental result suggested that smiling faces produce high discriminating power that can be used effectively by the machine-learning algorithms to improve their accuracy and fairness.",
         '⚡ This was published in IEEE SMC 2023 titled "Effect of Smile on Facial Landmark based Face Recognition".',
       ],
       website_link: "http://buet.ac.bd",
@@ -504,7 +504,7 @@ const publications = {
       conferenceDate: "01-04 October, 2023",
       location: "Honolulu, Oahu, HI, USA",
       description:
-        "Published in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). I was the first author of the paper. I also had the opportunity to present the paper in the conference.",
+        "Published in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). I was the first author of the paper. I also had the opportunity to present the paper at the conference.",
       coAuthors: [
         "Md. Musharaf Hossain",
         "Asif Mustafa Hassan",
