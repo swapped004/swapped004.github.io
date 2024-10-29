@@ -391,8 +391,7 @@ const degrees = {
       duration: "March, 2018 - May, 2023",
       grade: "3.81/4.00",
       descriptions: [
-        "⚡ I have taken basic computer science courses like DSA, DBMS, OS, Compilers, Network, Security, ML, AI etc. I also took courses like Graph Theory, Bioinformatics and Simulation & Modeling.",
-        "⚡ My favorite courses include Machine Learning, Computer Security, Graph Theory and DSA.",
+        "⚡ I have taken basic computer science courses like DSA, DBMS, OS, Compilers, Network, Security, Computer Graphics, ML, AI etc. I also took courses like Graph Theory, Bioinformatics and Simulation & Modeling.",
         "⚡ My undergraduate thesis was on 'Effect of Smile on Facial Landmark based Face Recognition' which was published in IEEE SMC 2023.",
         "⚡ I was awarded with University Merit scholarship twice which is given to the top 40 students in Engineering faculty among 1100+ students. I also earned my position in the University Dean's List for 3 consecutive academic years.",
         "⚡ Apart from my academics, I also participated in various Capture The Flag contests and GameJams.",
@@ -429,6 +428,7 @@ const experience = {
           descriptions: [
             "⚡ Code Maintenance: Added new features and debugged errors on more than 2 million lines of pure C++ based codebase.",
             "⚡ Significant contributions in making data imports interruptable that are used to import large data in bulk from clients",
+            "⚡ Made data imports from excel files(.xlsx) about 20% more memory efficient to avoid out of memory crashes for huge files",
             "⚡ Fixed critical bugs in reports with runtime configuration, bundled and uploaded user data import definition files as a part of diagnostic upload.",
             "⚡ Created a policy management system that is being used internally to manage policies.",
           ],
@@ -504,7 +504,7 @@ const publications = {
       conferenceDate: "01-04 October, 2023",
       location: "Honolulu, Oahu, HI, USA",
       description:
-        "Published in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). I was the first author of the paper. I also had the opportunity to present the paper at the conference.",
+        "Published in 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). I co-authored the paper. I also had the opportunity to present the research at the conference.",
       coAuthors: [
         "Md. Musharaf Hossain",
         "Asif Mustafa Hassan",
