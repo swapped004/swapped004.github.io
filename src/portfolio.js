@@ -443,6 +443,20 @@ const experience = {
 const research_exps = {
   research_exps: [
     {
+      subtitle: "Bangladesh University of Engineering and Technology",
+      title:
+        "Independent Research on security vulnerabilities in computer vision systems",
+      logo_path: "buet_logo.png",
+      alt_name: "BUET",
+      duration: "October, 2024 - Present",
+      descriptions: [
+        "⚡ Conducting research under Dr. Muhammad Abdullah Adnan on security vulnerabilities in computer vision systems.",
+        "⚡ Primarily focusing on adversarial attacks aimed at compromising DeepFake detection models.",
+      ],
+      website_link: "http://buet.ac.bd",
+      location: "",
+    },
+    {
       subtitle: "University of Illinois at Urbana-Champaign",
       title:
         "Research Intern in Software Engineering at UIUC+ summer reseach program",
