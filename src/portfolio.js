@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Swapnil",
   nickname: "",
   subTitle:
-    "I am a CS graduate from BUET and currently working as a software developer in CodeCrafters International Ltd. I love to code and try to automate things whenever I can. My research interests include Computer Vision, Software Engineering and Computer Security.",
+    "I am a Computer Science graduate from Bangladesh University of Engineering and Technology (BUET), currently working as a software developer at CodeCrafters International Ltd. I love to code and try to automate things whenever I can. My research interests lie on the intersection of Computer Vision and Computer Security, particularly on security vulnerabilities in computer vision systems.",
   resumeLink:
     "https://drive.google.com/file/d/15OUbPJ_UneoSe_zc2bO3DS9Y0uziZaBC/view?usp=drive_link",
   portfolio_repository: "https://github.com/swapped004/swapped004.github.io",
