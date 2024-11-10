@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61a9cf9cad76772edd456a7559150de6",
+    "revision": "f6a17b43d2d42174a98886e4369683a0",
     "url": "https://swapped004.github.io/index.html"
   },
   {
-    "revision": "c9971181672eb9243fcf",
+    "revision": "31e4052b29cc1de3b0ad",
     "url": "https://swapped004.github.io/static/css/main.fadba078.chunk.css"
   },
   {
-    "revision": "50453a3c130a0fa3630c",
-    "url": "https://swapped004.github.io/static/js/2.dbce2ff9.chunk.js"
+    "revision": "3c6ae578a3078d97a5e0",
+    "url": "https://swapped004.github.io/static/js/2.75af4608.chunk.js"
   },
   {
-    "revision": "c9971181672eb9243fcf",
-    "url": "https://swapped004.github.io/static/js/main.491a09e9.chunk.js"
+    "revision": "31e4052b29cc1de3b0ad",
+    "url": "https://swapped004.github.io/static/js/main.f217bed6.chunk.js"
   },
   {
     "revision": "e22915603566344a91d7",
@@ -238,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6addc3fb6605480614b992ede8cd434",
     "url": "https://swapped004.github.io/static/media/googleAssistant.a6addc3f.svg"
+  },
+  {
+    "revision": "2a38fa36291864aedb2c56788b0448bc",
+    "url": "https://swapped004.github.io/static/media/home_page.2a38fa36.svg"
   },
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
